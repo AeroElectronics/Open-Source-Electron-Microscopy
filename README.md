@@ -4,10 +4,13 @@ This is not the first or last attempt at making open source electron microscopy 
 
 My work so far has focused on the control electronics which can be used to drive electron microscopes. This is an essential first step that can (mostly) preceed the design of the electron optics. I'm hoping that by lowering the barrier to entry, others can work on this exciting task.
 
-Here are several of my designs and their status:
+I've worked on a few areas, see the links below:
 
+[Coil drivers](./DeflectionCoilDrivers/README.md)
+[Adjustable Load](./AdjustableLoad/README.md)
+[Vacuum Control](./AdjustableLoad/README.md)
 
-| Board  | Picture | Notes | Current design status |
+| Board  | Picture | Notes | Current design status |w
 | ------------- | ------------- | ------------- | ------------- |
 | Bridge topology howland current pump | Content Cell  | Content Cell  | Content Cell  |
 | Single ended coil driver  | Content Cell  | Content Cell  | Content Cell  |
