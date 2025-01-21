@@ -7,12 +7,7 @@ My work so far has focused on the control electronics which can be used to drive
 I've worked on a few areas, see the links below:
 
 [Coil drivers](./DeflectionCoilDrivers/README.md)
-[Adjustable Load](./AdjustableLoad/README.md)
-[Vacuum Control](./AdjustableLoad/README.md)
 
-| Board  | Picture | Notes | Current design status |w
-| ------------- | ------------- | ------------- | ------------- |
-| Bridge topology howland current pump | Content Cell  | Content Cell  | Content Cell  |
-| Single ended coil driver  | Content Cell  | Content Cell  | Content Cell  |
-| Adjustable load  | Content Cell  | Content Cell  | Content Cell  |
-| Backplane | Content Cell  | Content Cell  | Content Cell  |
+[Adjustable Load](./AdjustableLoad/README.md)
+
+[Vacuum Control](./AdjustableLoad/README.md)
