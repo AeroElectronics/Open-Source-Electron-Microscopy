@@ -1,4 +1,4 @@
-Hello!
+#Open Source Electron Microscopy
 
 This is not the first or last attempt at making open source electron microscopy a reality. Many others have attempted this large and difficult task before with varying specialties and contributions. I have learned a great deal from other's work in this area and it is my hope that I can make a contribution too. It is through the collective effort and ability of the open source community that progress on such large and difficult tasks may be realized.
 
