@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/91a5353a-9b69-4ae1-80f6-5a9f07e55637)
+
 This board serves two purposes:
 1. Adding an adjustable load to the scan coil. Sometimes additional load resistance (or capacitance, will make another board soon...) can help the coil driver perform.
 2. Can be used as an adjustable load with varied resistance or capacitance to test the coil over a range of inductances and resistances.
