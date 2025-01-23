@@ -4,6 +4,8 @@ This is not the first or last attempt at making open source electron microscopy 
 
 My work so far has focused on the control electronics which can be used to drive electron microscopes. This is an essential first step that can (mostly) preceed the design of the electron optics. I'm hoping that by lowering the barrier to entry, others can work on this exciting task.
 
+**Note to readers! This repo is quite new, many of the currently uploaded works are my most recent iterations (old designs have not been uploaded) and have not yet been tested. Please check the ![status page!](./Documentation/Design_Status.md)**
+
 I've worked on a few areas, see the links below:
 
 [Backplane](./Backplane/README.md)
