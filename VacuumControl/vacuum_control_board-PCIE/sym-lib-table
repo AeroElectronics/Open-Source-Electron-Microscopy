@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "vac_cont_lib")(type "KiCad")(uri "${KIPRJMOD}/vac_cont_lib.kicad_sym")(options "")(descr ""))
+)
