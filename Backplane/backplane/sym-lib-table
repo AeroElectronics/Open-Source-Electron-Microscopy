@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2024-04-29_03-14-05")(type "KiCad")(uri "C:/Users/Aero/OneDrive/sem/PCIE boards/OPA548/OPA548/ul_OPA548T/KiCADv6/2024-04-29_03-14-05.kicad_sym")(options "")(descr ""))
+  (lib (name "PCIE-164-02-F-D-TH-TR")(type "KiCad")(uri "C:/Users/JS/OneDrive/sem/PCIE boards/backplane/PCIE-164-02-F-D-TH-TR/PCIE-164-02-F-D-TH-TR.kicad_sym")(options "")(descr ""))
+)
