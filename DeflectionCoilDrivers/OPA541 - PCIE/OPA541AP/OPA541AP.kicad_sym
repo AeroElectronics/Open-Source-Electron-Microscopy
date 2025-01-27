@@ -1,0 +1,224 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "OPA541AP" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at -10.16 16.002 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "OPA541AP" (id 1) (at -10.16 -16.002 0)
+      (effects (font (size 1.27 1.27)) (justify top left))
+    )
+    (property "Footprint" "OPA541AP:TO170P2027X462X2456-11" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Texas Instruments" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MAXIMUM_PACKAGE_HEIGHT" "24.56mm" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "TO-220-11 Texas Instruments" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/OPA541AP/Texas+Instruments/view-part/?ref=eda" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "IPC-7351B" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "B" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/OPA541AP/Texas+Instruments/view-part/?ref=snap" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SNAPEDA_PACKAGE_ID" "102954" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "OPA541AP" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n                        \n                            High Power Monolithic Operational Amplifier\n                        \n" (id 14) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 15) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Texas Instruments" (id 16) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "OPA541AP_0_0"
+      (polyline
+        (pts (xy -5.08 5.08) (xy -5.08 2.54)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy -5.08 2.54) (xy -5.08 -2.54)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy -5.08 -2.54) (xy -5.08 -5.08)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy -5.08 -5.08) (xy -2.54 -3.81)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy -2.54 -3.81) (xy 5.08 0.0)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy 5.08 0.0) (xy -2.54 3.81)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy -2.54 3.81) (xy -5.08 5.08)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy -4.445 2.54) (xy -3.175 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -4.445 -2.54) (xy -3.175 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -3.81 -1.905) (xy -3.81 -3.175)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -10.16 2.54) (xy -5.08 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -10.16 -2.54) (xy -5.08 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -10.16 12.7) (xy -7.62 12.7)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 10.16) (xy -2.54 3.81)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -10.16 -12.7) (xy -7.62 -12.7)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -10.16) (xy -2.54 -3.81)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 5.08 0.0) (xy 7.62 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 7.62 0.0) (xy 10.16 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 2.54) (xy 7.62 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 7.62 2.54) (xy 7.62 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -10.16 10.16) (xy -7.62 10.16)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -10.16 -10.16) (xy -7.62 -10.16)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 -12.7) (xy -7.62 -10.16)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 -10.16) (xy -2.54 -10.16)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 12.7) (xy -7.62 10.16)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 10.16) (xy -2.54 10.16)) (stroke (width 0.1524))
+      )
+      (rectangle (start -10.16 -15.24) (end 10.16 15.24)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin input line (at -15.24 -2.54 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -15.24 2.54 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 15.24 0.0 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at -15.24 12.7 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at -15.24 -12.7 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at 15.24 7.62 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin no_connect line (at 15.24 -5.08 180.0) (length 5.08)
+        (name "NC_6"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at -15.24 10.16 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at -15.24 -10.16 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 15.24 2.54 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin no_connect line (at 15.24 -7.62 180.0) (length 5.08)
+        (name "NC_9"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
