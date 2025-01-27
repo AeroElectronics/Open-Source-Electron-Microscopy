@@ -17,3 +17,5 @@ I've worked on a few areas, see the links below:
 [Vacuum Control](./VacuumControl/README.md)
 
 [Raster generator](./RasterGenerator/README.md)
+
+Remember, this project is still under development. Use at your own risk. This work is licenced under GPL3. Please see license file.
