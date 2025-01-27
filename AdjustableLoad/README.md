@@ -11,4 +11,4 @@ When designing deflection coil drivers for open source use it is difficult to kn
 
 This board can be controlled digitally or using DIP switches when powered. When unpowered, there are solder jumpers can can be used to selectively short some loads. Beware using serious inductive loads on this board. It has not yet been tested, and large inductors can generate serious voltages if not treated properly. User beware.
 
-Finally, also beward that it is not intended for the relays to be switched while under load. This may be possible, but the relays may be underspeced for switching under major (or possibly typical) currents. It is reccommended to turn off the load before testing.
+Finally, also beware that it is not intended for the relays to be switched while under load. This may be possible, but the relays may be underspeced for switching under major (or possibly typical) currents. It is reccommended to turn off the load before testing.
