@@ -12,7 +12,7 @@ I've worked on a few areas, see the links below:
 
 [Coil drivers](./DeflectionCoilDrivers/README.md)
 
-[Substitution board for resistive & inductive loads](./SubstitutionBoard/README.md)
+[Resistor/Inductor Substitution board](./SubstitutionBoard/README.md)
 
 [Vacuum Control](./VacuumControl/README.md)
 
