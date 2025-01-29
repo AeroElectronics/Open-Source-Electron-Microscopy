@@ -1,6 +1,4 @@
 (sym_lib_table
   (version 7)
   (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
-  (lib (name "New_Library_0")(type "KiCad")(uri "${KIPRJMOD}/New_Library_0.kicad_sym")(options "")(descr ""))
-  (lib (name "OPA541AP")(type "KiCad")(uri "${KIPRJMOD}/OPA541AP/OPA541AP.kicad_sym")(options "")(descr ""))
 )

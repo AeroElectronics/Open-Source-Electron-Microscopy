@@ -1730,38 +1730,32 @@
 				)
 			)
 		)
-		(symbol "OPA541AP:OPA541AP"
-			(pin_names
-				(offset 1.016)
-			)
+		(symbol "New_Library:OPA541"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U"
-				(at -10.16 16.002 0)
+				(at 0 6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
 				)
 			)
-			(property "Value" "OPA541AP"
-				(at -10.16 -16.002 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "OPA541AP:TO170P2027X462X2456-11"
+			(property "Value" ""
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
 					(hide yes)
 				)
 			)
@@ -1783,154 +1777,26 @@
 					(hide yes)
 				)
 			)
-			(property "MF" "Texas Instruments"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "24.56mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "TO-220-11 Texas Instruments"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/OPA541AP/Texas+Instruments/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "IPC-7351B"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "B"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/OPA541AP/Texas+Instruments/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PACKAGE_ID" "102954"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "OPA541AP"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "\n                        \n                            High Power Monolithic Operational Amplifier\n                        \n"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Texas Instruments"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "OPA541AP_0_0"
+			(symbol "OPA541_0_1"
 				(rectangle
-					(start -10.16 -15.24)
-					(end 10.16 15.24)
+					(start -8.89 11.43)
+					(end 8.89 -12.7)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
-						(type background)
+						(type none)
 					)
 				)
+			)
+			(symbol "OPA541_1_1"
 				(polyline
 					(pts
-						(xy -10.16 -12.7) (xy -7.62 -12.7)
+						(xy -8.89 -2.54) (xy -2.54 -2.54)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -1939,10 +1805,10 @@
 				)
 				(polyline
 					(pts
-						(xy -10.16 -10.16) (xy -7.62 -10.16)
+						(xy -8.89 2.54) (xy -2.54 2.54)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -1951,10 +1817,10 @@
 				)
 				(polyline
 					(pts
-						(xy -10.16 -2.54) (xy -5.08 -2.54)
+						(xy 3.81 0) (xy 8.89 0)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -1963,474 +1829,234 @@
 				)
 				(polyline
 					(pts
-						(xy -10.16 2.54) (xy -5.08 2.54)
+						(xy -2.54 -3.81) (xy -2.54 3.81) (xy 3.81 0) (xy -2.54 -3.81)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy -10.16 10.16) (xy -7.62 10.16)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
+				(text "+"
+					(at -4.064 -2.032 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
-				(polyline
-					(pts
-						(xy -10.16 12.7) (xy -7.62 12.7)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
+				(text "-"
+					(at -4.064 2.032 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
-				(polyline
-					(pts
-						(xy -7.62 -12.7) (xy -7.62 -10.16)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -7.62 -10.16) (xy -2.54 -10.16)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -7.62 10.16) (xy -2.54 10.16)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -7.62 12.7) (xy -7.62 10.16)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 -5.08) (xy -2.54 -3.81)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 -2.54) (xy -5.08 -5.08)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 2.54) (xy -5.08 -2.54)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 5.08) (xy -5.08 2.54)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.445 -2.54) (xy -3.175 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.445 2.54) (xy -3.175 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -1.905) (xy -3.81 -3.175)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -10.16) (xy -2.54 -3.81)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -3.81) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 3.81) (xy -5.08 5.08)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 10.16) (xy -2.54 3.81)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 0) (xy -2.54 3.81)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 10.16 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 2.54) (xy 7.62 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
+				(text "OPA541AP\n"
+					(at 0 -8.636 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(pin input line
-					(at -15.24 -2.54 0)
-					(length 5.08)
-					(name "~"
+					(at -11.43 -2.54 0)
+					(length 2.54)
+					(name "1"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "1"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin power_in line
-					(at -15.24 10.16 0)
-					(length 5.08)
-					(name "~"
+				(pin input line
+					(at -1.27 13.97 270)
+					(length 2.54)
+					(name "10"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "10"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin power_in line
-					(at -15.24 12.7 0)
-					(length 5.08)
-					(name "~"
+				(pin input line
+					(at 1.27 13.97 270)
+					(length 2.54)
+					(name "11"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "11"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
 				(pin input line
-					(at -15.24 2.54 0)
-					(length 5.08)
-					(name "~"
+					(at -11.43 2.54 0)
+					(length 2.54)
+					(name "2"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "2"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin power_in line
-					(at -15.24 -10.16 0)
-					(length 5.08)
-					(name "~"
+				(pin input line
+					(at -1.27 -15.24 90)
+					(length 2.54)
+					(name "3"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "3"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin power_in line
-					(at -15.24 -12.7 0)
-					(length 5.08)
-					(name "~"
+				(pin input line
+					(at 1.27 -15.24 90)
+					(length 2.54)
+					(name "4"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "4"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin output line
-					(at 15.24 0 180)
-					(length 5.08)
-					(name "~"
+				(pin input line
+					(at 11.43 -1.27 180)
+					(length 2.54)
+					(name "5"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "5"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin no_connect line
-					(at 15.24 -5.08 180)
-					(length 5.08)
-					(name "NC_6"
+				(pin input line
+					(at 11.43 -7.62 180)
+					(length 2.54)
+					(name "nc"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "6"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin output line
-					(at 15.24 2.54 180)
-					(length 5.08)
-					(name "~"
+				(pin input line
+					(at 11.43 1.27 180)
+					(length 2.54)
+					(name "7"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "7"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
 				(pin input line
-					(at 15.24 7.62 180)
-					(length 5.08)
-					(name "~"
+					(at 11.43 6.35 180)
+					(length 2.54)
+					(name "8"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "8"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin no_connect line
-					(at 15.24 -7.62 180)
-					(length 5.08)
-					(name "NC_9"
+				(pin input line
+					(at 11.43 -10.16 180)
+					(length 2.54)
+					(name "nc"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "9"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
@@ -6126,16 +5752,16 @@
 		(uuid "3fd5a68a-f514-43af-aa6b-3503ac30d1b2")
 	)
 	(junction
-		(at 199.39 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d05d079-cb0d-48ff-b020-87a2dad3c176")
-	)
-	(junction
 		(at 207.01 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5a1025da-88f2-45bd-84ec-298718cb5670")
+	)
+	(junction
+		(at 194.31 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97b3ab0a-dc26-452a-9f5f-bc1203749609")
 	)
 	(junction
 		(at 207.01 166.37)
@@ -6309,6 +5935,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 144.78) (xy 194.31 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23008382-d896-4b6a-b04b-4f4827d04b35")
+	)
+	(wire
+		(pts
 			(xy 139.7 205.74) (xy 147.32 205.74)
 		)
 		(stroke
@@ -6409,6 +6045,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 137.16) (xy 201.93 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "378c1ae7-c838-4d4f-8a5b-02db8bdab04e")
+	)
+	(wire
+		(pts
 			(xy 201.93 166.37) (xy 207.01 166.37)
 		)
 		(stroke
@@ -6456,6 +6102,16 @@
 			(type default)
 		)
 		(uuid "4de4e5fd-8a7c-4122-b0f7-26b43a64076d")
+	)
+	(wire
+		(pts
+			(xy 193.04 142.24) (xy 194.31 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5793d1c0-5665-4d35-900f-66ffcc3f811f")
 	)
 	(wire
 		(pts
@@ -6589,7 +6245,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 143.51) (xy 199.39 143.51)
+			(xy 194.31 143.51) (xy 207.01 143.51)
 		)
 		(stroke
 			(width 0)
@@ -6649,16 +6305,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 135.89) (xy 201.93 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8af17cbd-49ee-4765-86b4-e0953c0f23a7")
-	)
-	(wire
-		(pts
 			(xy 207.01 143.51) (xy 207.01 144.78)
 		)
 		(stroke
@@ -6669,7 +6315,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 146.05) (xy 167.64 146.05)
+			(xy 163.83 146.05) (xy 170.18 146.05)
 		)
 		(stroke
 			(width 0)
@@ -6686,6 +6332,16 @@
 			(type default)
 		)
 		(uuid "912b5b2d-4749-49c6-ba15-373ae623ccdb")
+	)
+	(wire
+		(pts
+			(xy 194.31 144.78) (xy 194.31 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9301063d-059a-4228-971a-d9c63d2a5996")
 	)
 	(wire
 		(pts
@@ -6799,7 +6455,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 140.97) (xy 151.13 140.97)
+			(xy 170.18 140.97) (xy 151.13 140.97)
 		)
 		(stroke
 			(width 0)
@@ -6869,6 +6525,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 137.16) (xy 201.93 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0b28957-84f4-4af3-81ca-5cbb59e34f52")
+	)
+	(wire
+		(pts
 			(xy 340.36 147.32) (xy 336.55 147.32)
 		)
 		(stroke
@@ -6896,16 +6562,6 @@
 			(type default)
 		)
 		(uuid "c8a9d7b9-91e2-4fdd-ab86-818e2d5c0287")
-	)
-	(wire
-		(pts
-			(xy 198.12 140.97) (xy 199.39 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d51149da-5945-4aa1-97ec-e70c0abdef3d")
 	)
 	(wire
 		(pts
@@ -6939,13 +6595,13 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 143.51) (xy 207.01 143.51)
+			(xy 194.31 143.51) (xy 194.31 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "eb5be245-af71-46d1-bd23-335ee947a6a0")
+		(uuid "edb8dec2-1ab8-4d49-ae92-88a8711abea3")
 	)
 	(wire
 		(pts
@@ -6966,16 +6622,6 @@
 			(type default)
 		)
 		(uuid "f2fbd4db-3674-4620-909c-1df54c62c76f")
-	)
-	(wire
-		(pts
-			(xy 199.39 140.97) (xy 199.39 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f34242f0-80e6-40dd-93f7-d695192a6c9d")
 	)
 	(wire
 		(pts
@@ -7290,73 +6936,6 @@
 			(project "OPA541"
 				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
 					(reference "JP12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+24V")
-		(at 167.64 130.81 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "038a065c-27f8-4709-ac50-d8222557a673")
-		(property "Reference" "#PWR01"
-			(at 171.45 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+24V"
-			(at 163.83 130.8099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 167.64 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 167.64 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 167.64 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eb4b000d-e51a-4504-8801-d32d9b39f6e1")
-		)
-		(instances
-			(project "OPA541"
-				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
-					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -8181,17 +7760,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:-24V")
-		(at 167.64 156.21 90)
+		(lib_id "power:+24V")
+		(at 182.88 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4417cae6-f33d-4e40-b777-959ec4ae9fc7")
-		(property "Reference" "#PWR04"
-			(at 171.45 156.21 0)
+		(uuid "4777f5de-f1d1-4fd8-81df-5355d96b36e9")
+		(property "Reference" "#PWR027"
+			(at 182.88 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8199,17 +7778,16 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "-24V"
-			(at 163.83 156.2099 90)
+		(property "Value" "+24V"
+			(at 182.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 156.21 0)
+			(at 182.88 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8218,7 +7796,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 156.21 0)
+			(at 182.88 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8226,8 +7804,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"-24V\""
-			(at 167.64 156.21 0)
+		(property "Description" "Power symbol creates a global label with name \"+24V\""
+			(at 182.88 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8236,12 +7814,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "597f1251-84e0-47e6-9c6d-d43a1e10d4a4")
+			(uuid "8cade14a-6871-4f6c-8d9b-263463896a53")
 		)
 		(instances
 			(project "OPA541"
 				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
-					(reference "#PWR04")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -9067,6 +8645,72 @@
 			(project "OPA541"
 				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+24V")
+		(at 180.34 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "61e49234-adc1-4fa4-9621-d35485fa2923")
+		(property "Reference" "#PWR026"
+			(at 180.34 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+24V"
+			(at 180.34 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+24V\""
+			(at 180.34 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a9fafb9-c8fe-4f86-b305-ecabacc265be")
+		)
+		(instances
+			(project "OPA541"
+				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -10425,6 +10069,103 @@
 		)
 	)
 	(symbol
+		(lib_id "New_Library:OPA541")
+		(at 181.61 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1fb9fc7-0a7d-4af7-9556-f729f566729c")
+		(property "Reference" "U1"
+			(at 185.0741 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 185.0741 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical"
+			(at 181.61 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "9c20eebc-f084-4e02-81cc-ec885aee2254")
+		)
+		(pin "7"
+			(uuid "7087ad30-666b-4966-8155-f8ecc1779530")
+		)
+		(pin "4"
+			(uuid "be76e0ec-2a19-4ad5-9f37-dfd8a14cc04b")
+		)
+		(pin "9"
+			(uuid "a372ec77-9f65-43d9-afc1-d8e953705990")
+		)
+		(pin "2"
+			(uuid "cc343d5f-6367-4dac-9a19-62ad85bae78a")
+		)
+		(pin "3"
+			(uuid "aaed4f16-80e2-44a3-a711-c929d9341b9d")
+		)
+		(pin "11"
+			(uuid "d63f3e91-84df-4a8c-9a32-cc1bb18f57f8")
+		)
+		(pin "6"
+			(uuid "358d2ae6-60a8-447b-916a-97545ef9facb")
+		)
+		(pin "5"
+			(uuid "548ea738-a05a-43b5-9d6b-f24cfe05332e")
+		)
+		(pin "1"
+			(uuid "ba204a96-bc8c-4b97-94ee-2724bd4e8bec")
+		)
+		(pin "10"
+			(uuid "68d88104-e2ab-4104-80b7-d696f9dbd43f")
+		)
+		(instances
+			(project "OPA541"
+				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 344.17 157.48 0)
 		(unit 1)
@@ -10967,73 +10708,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+24V")
-		(at 167.64 133.35 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ae41473e-737d-4d13-97a0-a2b1b15dea8f")
-		(property "Reference" "#PWR02"
-			(at 171.45 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+24V"
-			(at 163.83 133.3499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 167.64 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 167.64 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 167.64 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "62e4ab8f-f147-48fd-98fa-2bcfcc8be25a")
-		)
-		(instances
-			(project "OPA541"
-				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 139.7 152.4 0)
 		(unit 1)
@@ -11441,232 +11115,6 @@
 		)
 	)
 	(symbol
-		(lib_id "OPA541AP:OPA541AP")
-		(at 182.88 143.51 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d368f03b-efe2-4edd-8261-0b13d5406b91")
-		(property "Reference" "U1"
-			(at 182.88 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "OPA541AP"
-			(at 182.88 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:TO170P2027X462X2456-11"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Texas Instruments"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "24.56mm"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "TO-220-11 Texas Instruments"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/OPA541AP/Texas+Instruments/view-part/?ref=eda"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC-7351B"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "B"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/OPA541AP/Texas+Instruments/view-part/?ref=snap"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PACKAGE_ID" "102954"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "OPA541AP"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\n                        \n                            High Power Monolithic Operational Amplifier\n                        \n"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Texas Instruments"
-			(at 182.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "9"
-			(uuid "e610b5f7-872e-4950-93e9-64f177ec2063")
-		)
-		(pin "5"
-			(uuid "ae0657ef-8d35-4554-b8bb-9eb544ffa865")
-		)
-		(pin "1"
-			(uuid "098ed7bf-9366-4892-946b-6d917ef08409")
-		)
-		(pin "10"
-			(uuid "f797abd9-383a-41a0-9839-7fcbebc6b0a8")
-		)
-		(pin "11"
-			(uuid "90dd5344-ca86-4853-b326-2fdae5f4e77d")
-		)
-		(pin "3"
-			(uuid "16ffb588-333c-4907-b61a-0a26ddc52580")
-		)
-		(pin "4"
-			(uuid "4c4016fb-c99f-454a-b9a3-18d05937d9eb")
-		)
-		(pin "6"
-			(uuid "93b75164-8c65-42a8-882b-319520795480")
-		)
-		(pin "7"
-			(uuid "c6b5e708-b659-429c-9630-3f8fafb51128")
-		)
-		(pin "8"
-			(uuid "564e9f8a-bb35-48fe-b3fb-2d9d472da769")
-		)
-		(pin "2"
-			(uuid "fd5e505b-39cc-42c2-aa46-0d09c20d453c")
-		)
-		(instances
-			(project "OPA541"
-				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 139.7 196.85 180)
 		(unit 1)
@@ -12065,6 +11513,72 @@
 			(project "OPA541"
 				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-24V")
+		(at 182.88 158.75 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dbf3fc73-0fdc-425d-b829-c63e4a1bff64")
+		(property "Reference" "#PWR029"
+			(at 182.88 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-24V"
+			(at 182.88 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-24V\""
+			(at 182.88 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "015a30b6-54f7-4534-94f6-aea8e3082c9e")
+		)
+		(instances
+			(project "OPA541"
+				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -12829,6 +12343,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:-24V")
+		(at 180.34 158.75 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fd089780-996b-419e-97d9-c57790c5ab9f")
+		(property "Reference" "#PWR028"
+			(at 180.34 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-24V"
+			(at 180.34 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-24V\""
+			(at 180.34 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6a545bd4-3e98-495e-bff0-9c1ace342285")
+		)
+		(instances
+			(project "OPA541"
+				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 139.7 129.54 180)
 		(unit 1)
@@ -12889,73 +12469,6 @@
 			(project "OPA541"
 				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:-24V")
-		(at 167.64 153.67 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ffa2a035-a0c7-4c42-a88b-a267d931c876")
-		(property "Reference" "#PWR03"
-			(at 171.45 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "-24V"
-			(at 163.83 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 167.64 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 167.64 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"-24V\""
-			(at 167.64 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d96d9c1e-e0f5-43a4-9f2c-0ffd2e6707c9")
-		)
-		(instances
-			(project "OPA541"
-				(path "/4509510e-bfdb-428c-8f4b-2027be68d1bf"
-					(reference "#PWR03")
 					(unit 1)
 				)
 			)
