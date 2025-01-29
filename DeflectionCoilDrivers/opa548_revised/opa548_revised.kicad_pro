@@ -494,7 +494,14 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(J5-Ext)": "current_path",
+      "Net-(J5-In)": "current_path",
+      "Net-(JP20-B)": "current_path",
+      "Net-(JP20-C)": "current_path",
+      "Net-(R10-Pad2)": "current_path",
+      "Net-(U1-VO)": "current_path"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {

@@ -5,261 +5,6 @@
 	(uuid "2d8894a0-ccd1-4a35-8907-e1d082af2dcb")
 	(paper "A1")
 	(lib_symbols
-		(symbol "2024-04-29_03-14-05:OPA548T"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 20.32 12.7 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "OPA548T"
-				(at 20.32 10.16 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "KVT7"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "OPA548T"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "OPA548T"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "KVT7"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "OPA548T_0_1"
-				(polyline
-					(pts
-						(xy 7.62 -27.94) (xy 33.02 -27.94)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 7.62) (xy 7.62 -27.94)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 33.02 -27.94) (xy 33.02 7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 33.02 7.62) (xy 7.62 7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at 0 -2.54 0)
-					(length 7.62)
-					(name "VIN+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 0 0 0)
-					(length 7.62)
-					(name "VIN-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -10.16 0)
-					(length 7.62)
-					(name "ILIM"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -20.32 0)
-					(length 7.62)
-					(name "V-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -22.86 0)
-					(length 7.62)
-					(name "V+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 40.64 2.54 180)
-					(length 7.62)
-					(name "VO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -7.62 0)
-					(length 7.62)
-					(name "E/S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "2024-04-29_04-04-11:OPA1612AID"
 			(pin_names
 				(offset 0.254)
@@ -3115,6 +2860,223 @@
 				)
 			)
 		)
+		(symbol "New_Library:OPA548"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "OPA548_0_1"
+				(rectangle
+					(start -6.35 13.97)
+					(end 6.35 -6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 11.43) (xy -3.81 3.81) (xy 3.81 7.62) (xy -3.81 11.43)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "OPA548_1_1"
+				(text "+\n"
+					(at -2.794 5.842 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "-\n"
+					(at -2.794 9.906 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(pin input line
+					(at -8.89 6.35 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -8.89 8.89 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -8.89 -5.08 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 0 -8.89 90)
+					(length 2.54)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 0 16.51 270)
+					(length 2.54)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 8.89 7.62 180)
+					(length 2.54)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -8.89 -2.54 0)
+					(length 2.54)
+					(name "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Regulator_Linear:L78L05_SO8"
 			(pin_names
 				(offset 0.254)
@@ -4061,12 +4023,6 @@
 		(uuid "68710081-bf19-4618-b347-f8292465b9b8")
 	)
 	(junction
-		(at 425.45 207.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6b38db77-fb07-4897-8c50-68d48eb96076")
-	)
-	(junction
 		(at 229.87 303.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4173,6 +4129,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6e90280-e628-4b70-9551-2dfa2006dd40")
+	)
+	(junction
+		(at 425.45 210.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c947977a-7cc2-4ded-a91d-9d19f301e94d")
 	)
 	(junction
 		(at 345.44 175.26)
@@ -4404,6 +4366,16 @@
 	)
 	(wire
 		(pts
+			(xy 321.31 210.82) (xy 330.2 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21a5d61b-d0f0-463e-b1e1-a5505a1393b1")
+	)
+	(wire
+		(pts
 			(xy 339.09 255.27) (xy 339.09 266.7)
 		)
 		(stroke
@@ -4544,7 +4516,7 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 266.7) (xy 425.45 207.01)
+			(xy 425.45 266.7) (xy 425.45 210.82)
 		)
 		(stroke
 			(width 3.81)
@@ -4874,7 +4846,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 209.55) (xy 289.56 209.55)
+			(xy 278.13 209.55) (xy 303.53 209.55)
 		)
 		(stroke
 			(width 0)
@@ -4914,7 +4886,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 212.09) (xy 287.02 212.09)
+			(xy 287.02 212.09) (xy 303.53 212.09)
 		)
 		(stroke
 			(width 0)
@@ -5144,16 +5116,6 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 207.01) (xy 421.64 207.01)
-		)
-		(stroke
-			(width 3.81)
-			(type default)
-		)
-		(uuid "ad48c559-8347-4d10-afd8-50dcb6928f71")
-	)
-	(wire
-		(pts
 			(xy 345.44 207.01) (xy 345.44 214.63)
 		)
 		(stroke
@@ -5254,7 +5216,7 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 175.26) (xy 425.45 207.01)
+			(xy 425.45 175.26) (xy 425.45 210.82)
 		)
 		(stroke
 			(width 0)
@@ -5394,6 +5356,16 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 210.82) (xy 330.2 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9195ab3-bd8f-402a-be5b-0039a7b0b544")
+	)
+	(wire
+		(pts
 			(xy 344.17 251.46) (xy 346.71 251.46)
 		)
 		(stroke
@@ -5431,6 +5403,16 @@
 			(type default)
 		)
 		(uuid "e079becd-57f0-4f47-be16-547e9992cb29")
+	)
+	(wire
+		(pts
+			(xy 425.45 210.82) (xy 398.78 210.82)
+		)
+		(stroke
+			(width 3.81)
+			(type default)
+		)
+		(uuid "e446de82-e39b-4038-8eb4-ad461062f79e")
 	)
 	(wire
 		(pts
@@ -5535,7 +5517,7 @@
 	)
 	(global_label "Ilim"
 		(shape input)
-		(at 289.56 219.71 180)
+		(at 303.53 223.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5545,7 +5527,7 @@
 		)
 		(uuid "08b48f89-8955-4434-8c39-71bef66f37db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 283.0067 219.71 0)
+			(at 296.9767 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5601,7 +5583,7 @@
 	)
 	(global_label "Ilim"
 		(shape input)
-		(at 381 219.71 180)
+		(at 381 223.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5611,7 +5593,7 @@
 		)
 		(uuid "7d529089-762b-4b76-9dc3-11ff7e9509a2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 374.4467 219.71 0)
+			(at 374.4467 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5924,91 +5906,6 @@
 		)
 	)
 	(symbol
-		(lib_id "2024-04-29_03-14-05:OPA548T")
-		(at 289.56 209.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0a21820b-da0b-46fa-b634-c86dcbf12f2a")
-		(property "Reference" "U1"
-			(at 309.88 196.85 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "OPA548T"
-			(at 309.88 199.39 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "my_local_lib:KVT7"
-			(at 289.56 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "OPA548T"
-			(at 289.56 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 289.56 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "a475358e-9869-4d87-a22c-718cdb9cac40")
-		)
-		(pin "1"
-			(uuid "319ddf05-c0eb-4e01-9488-72246efacd46")
-		)
-		(pin "2"
-			(uuid "09e055f0-65ef-487e-8e8c-049d6cf4b33f")
-		)
-		(pin "4"
-			(uuid "25d47a40-43e7-4a2b-b2a0-4e4023bde5e8")
-		)
-		(pin "3"
-			(uuid "c204ff34-d51e-48bf-bcae-6eac66b19762")
-		)
-		(pin "5"
-			(uuid "3573aa7b-bb59-4eba-acbb-6cc3073b1d9e")
-		)
-		(pin "7"
-			(uuid "25556766-7452-4f74-b4af-926630280bc1")
-		)
-		(instances
-			(project "opa548_revised"
-				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 273.05 175.26 270)
 		(unit 1)
@@ -6169,7 +6066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my_local_lib:D8"
+		(property "Footprint" "Library:opa1612"
 			(at 224.79 175.26 0)
 			(effects
 				(font
@@ -7647,7 +7544,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 373.38 217.17 90)
+		(at 373.38 220.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7656,7 +7553,7 @@
 		(fields_autoplaced yes)
 		(uuid "49692741-51b9-49de-8d0e-824666a2a6bf")
 		(property "Reference" "#PWR043"
-			(at 377.19 217.17 0)
+			(at 377.19 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7665,7 +7562,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 369.57 217.1699 90)
+			(at 369.57 220.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7674,7 +7571,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 373.38 217.17 0)
+			(at 373.38 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7683,7 +7580,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 373.38 217.17 0)
+			(at 373.38 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7692,7 +7589,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 373.38 217.17 0)
+			(at 373.38 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7777,6 +7674,89 @@
 			(project "opa548_revised"
 				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:OPA548")
+		(at 389.89 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ecb2721-ac95-41e5-b2c8-586a034337c3")
+		(property "Reference" "U6"
+			(at 398.78 208.442 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 398.78 210.3471 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:opa548"
+			(at 389.89 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 389.89 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 389.89 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "65e2ad7d-b999-4a24-80dc-d3e57f492368")
+		)
+		(pin "3"
+			(uuid "d50d1d54-61d8-4749-9a6b-2cec641f11e0")
+		)
+		(pin "7"
+			(uuid "570e38e4-bfa6-4b8f-afab-68e80cfa1ce7")
+		)
+		(pin "6"
+			(uuid "568abd1d-b05d-475e-85a5-f714efe6360b")
+		)
+		(pin "5"
+			(uuid "bb4d2713-18be-4033-815c-a758022b0770")
+		)
+		(pin "2"
+			(uuid "4e03f141-7fa6-4ad7-a128-77b3cdbd1d8e")
+		)
+		(pin "1"
+			(uuid "1a2bbcca-8f65-4930-a16f-629567602ca2")
+		)
+		(instances
+			(project "opa548_revised"
+				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -7976,6 +7956,72 @@
 			(project "opa548_revised"
 				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
 					(reference "#PWR062")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+24V")
+		(at 312.42 201.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "52de8269-e391-43fe-bf15-617326a3f68d")
+		(property "Reference" "#PWR010"
+			(at 312.42 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+24V"
+			(at 312.42 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 312.42 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+24V\""
+			(at 312.42 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1194bd6c-9875-4a72-aca4-1973c409ecae")
+		)
+		(instances
+			(project "opa548_revised"
+				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -8342,7 +8388,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 285.75 217.17 0)
+		(at 299.72 220.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8350,7 +8396,7 @@
 		(dnp no)
 		(uuid "5bc74a69-9ad6-497a-8fae-96c8ceae8a93")
 		(property "Reference" "JP23"
-			(at 285.75 214.884 0)
+			(at 299.72 218.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8358,7 +8404,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 285.75 213.36 0)
+			(at 299.72 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8367,7 +8413,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 285.75 217.17 0)
+			(at 299.72 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8376,7 +8422,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 285.75 217.17 0)
+			(at 299.72 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8385,7 +8431,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 285.75 217.17 0)
+			(at 299.72 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8535,6 +8581,89 @@
 			(project "opa548_revised"
 				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
 					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:OPA548")
+		(at 312.42 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62dbcc82-9977-4b8f-9fd4-a729a4f8fc6c")
+		(property "Reference" "U1"
+			(at 321.31 208.442 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 321.31 210.3471 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:opa548"
+			(at 312.42 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 312.42 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "5286dc24-a5ea-42e4-8f03-549c02733898")
+		)
+		(pin "3"
+			(uuid "f94ab0d2-72d8-4e21-a231-43709296c67a")
+		)
+		(pin "7"
+			(uuid "dfb1515e-1218-4fa4-96c9-d54301037f43")
+		)
+		(pin "6"
+			(uuid "a319d318-bcf8-4345-b6e0-2211e1551da6")
+		)
+		(pin "5"
+			(uuid "6602cd3e-f9d5-4057-8b3f-49aa34537ab7")
+		)
+		(pin "2"
+			(uuid "2fa31b4f-8ab9-4e0d-ac5b-ba6be894140b")
+		)
+		(pin "1"
+			(uuid "2ddc71c6-4ab8-419c-a7ad-6e7b7bc82d30")
+		)
+		(instances
+			(project "opa548_revised"
+				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -10679,7 +10808,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 381 232.41 90)
+		(at 389.89 201.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10688,7 +10817,7 @@
 		(fields_autoplaced yes)
 		(uuid "be3abe46-700a-4d36-b582-f3dcdb8727f3")
 		(property "Reference" "#PWR042"
-			(at 384.81 232.41 0)
+			(at 389.89 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10697,16 +10826,15 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 377.19 232.4099 90)
+			(at 389.89 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 381 232.41 0)
+			(at 389.89 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10715,7 +10843,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 381 232.41 0)
+			(at 389.89 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10724,7 +10852,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 381 232.41 0)
+			(at 389.89 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10942,6 +11070,72 @@
 			(project "opa548_revised"
 				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
 					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-24V")
+		(at 312.42 227.33 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2248605-7ac1-4b1f-900f-19fa125f878b")
+		(property "Reference" "#PWR09"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-24V"
+			(at 312.42 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 312.42 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-24V\""
+			(at 312.42 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cb80a94d-9e3d-472f-addf-2e653fa46b31")
+		)
+		(instances
+			(project "opa548_revised"
+				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -11217,7 +11411,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 377.19 217.17 0)
+		(at 377.19 220.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11225,7 +11419,7 @@
 		(dnp no)
 		(uuid "c7a7b474-86aa-46f0-b811-c58229394976")
 		(property "Reference" "JP22"
-			(at 377.19 214.884 0)
+			(at 377.19 218.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11233,7 +11427,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 377.19 213.36 0)
+			(at 377.19 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11242,7 +11436,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 377.19 217.17 0)
+			(at 377.19 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11251,7 +11445,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 377.19 217.17 0)
+			(at 377.19 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11260,7 +11454,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 377.19 217.17 0)
+			(at 377.19 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11553,7 +11747,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 281.94 217.17 90)
+		(at 295.91 220.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11562,7 +11756,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1cad16b-bb54-48b8-ad68-cb893f5bee50")
 		(property "Reference" "#PWR069"
-			(at 285.75 217.17 0)
+			(at 299.72 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11571,7 +11765,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 278.13 217.1699 90)
+			(at 292.1 220.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11580,7 +11774,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 281.94 217.17 0)
+			(at 295.91 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11589,7 +11783,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 281.94 217.17 0)
+			(at 295.91 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11598,7 +11792,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 281.94 217.17 0)
+			(at 295.91 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11822,73 +12016,6 @@
 			(project "opa548_revised"
 				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
 					(reference "R21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+24V")
-		(at 289.56 232.41 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d5699a06-7fbf-44e7-849f-833df9b72bdd")
-		(property "Reference" "#PWR039"
-			(at 293.37 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+24V"
-			(at 285.75 232.4099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 289.56 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 289.56 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 289.56 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c48dec03-3a3b-4937-bc65-70abaff2446b")
-		)
-		(instances
-			(project "opa548_revised"
-				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
-					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -12227,7 +12354,7 @@
 	)
 	(symbol
 		(lib_id "power:-24V")
-		(at 381 229.87 90)
+		(at 389.89 227.33 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12236,7 +12363,7 @@
 		(fields_autoplaced yes)
 		(uuid "df020674-a114-4f5b-be4b-fbb4769c3987")
 		(property "Reference" "#PWR032"
-			(at 384.81 229.87 0)
+			(at 389.89 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12245,16 +12372,15 @@
 			)
 		)
 		(property "Value" "-24V"
-			(at 377.19 229.8699 90)
+			(at 389.89 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 381 229.87 0)
+			(at 389.89 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12263,7 +12389,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 381 229.87 0)
+			(at 389.89 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12272,7 +12398,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-24V\""
-			(at 381 229.87 0)
+			(at 389.89 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12287,91 +12413,6 @@
 			(project "opa548_revised"
 				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
 					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "2024-04-29_03-14-05:OPA548T")
-		(at 381 209.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "df3a317d-3960-4b33-8eea-6da8d2f82aef")
-		(property "Reference" "U2"
-			(at 401.32 196.85 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "OPA548T"
-			(at 401.32 199.39 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "my_local_lib:KVT7"
-			(at 381 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "OPA548T"
-			(at 381 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 381 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "1307770a-6a39-46e9-b25e-108a287740ec")
-		)
-		(pin "1"
-			(uuid "00a64fd3-9459-4527-bcde-f4821f5b1460")
-		)
-		(pin "2"
-			(uuid "d8a99a45-4d10-4ae1-a276-ff1ea45d10f6")
-		)
-		(pin "4"
-			(uuid "acc4dcf7-9c23-460a-b5cc-56d94182123e")
-		)
-		(pin "3"
-			(uuid "b9380e6c-6820-4f96-813d-8363d2416659")
-		)
-		(pin "5"
-			(uuid "2164ef53-ab6d-45b1-8d6f-284dd8e4a203")
-		)
-		(pin "7"
-			(uuid "c067ef67-cf7a-4ec9-ac40-047eb4050423")
-		)
-		(instances
-			(project "opa548_revised"
-				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
-					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -12971,73 +13012,6 @@
 			(project "opa548_revised"
 				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
 					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:-24V")
-		(at 289.56 229.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fc855d37-deef-489d-84c8-df74c155c7c6")
-		(property "Reference" "#PWR044"
-			(at 293.37 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "-24V"
-			(at 285.75 229.8699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 289.56 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 289.56 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"-24V\""
-			(at 289.56 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eb187067-14ed-4365-a1d6-87417bea6850")
-		)
-		(instances
-			(project "opa548_revised"
-				(path "/2d8894a0-ccd1-4a35-8907-e1d082af2dcb"
-					(reference "#PWR044")
 					(unit 1)
 				)
 			)

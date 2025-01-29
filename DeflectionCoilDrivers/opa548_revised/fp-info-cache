@@ -1,4 +1,4 @@
-23048084939895660
+23042927259715345
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63413,19 +63413,19 @@ Yellow 5381 Series LED
 2
 2
 Library
-D8
+opa548
 
-OPA1612AID 
+
 0
-8
-8
+7
+7
 Library
-KVT7
-
-OPA548T 
+opa1612
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
-7
-7
+8
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -94401,24 +94401,3 @@ Varistor VF
 0
 2
 2
-my_local_lib
-D8
-
-OPA1612AID 
-0
-8
-8
-my_local_lib
-KVT7
-
-OPA548T 
-0
-7
-7
-my_local_lib
-TO-263-2_TabPin1
-TO-263 / D2PAK / DDPAK SMD package, tab to pin 1, https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf
-D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode
-0
-7
-3

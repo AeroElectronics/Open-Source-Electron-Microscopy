@@ -1,4 +1,4 @@
-23042927248667775
+23039450999761100
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63412,20 +63412,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Library
-TO-263-2_TabPin1
-TO-263 / D2PAK / DDPAK SMD package, tab to pin 1, https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf
-D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode
-0
-7
-3
-Library
-TO170P2027X462X2456-11
-
-
-0
-11
-11
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
