@@ -15743,7 +15743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 381 176.53 0)
 			(effects
 				(font
@@ -15811,7 +15811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 320.04 102.87 0)
 			(effects
 				(font
@@ -16433,7 +16433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 594.36 147.32 0)
 			(effects
 				(font
@@ -16568,7 +16568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 624.84 152.4 0)
 			(effects
 				(font
@@ -16712,7 +16712,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 422.91 102.87 0)
 			(effects
 				(font
@@ -16925,7 +16925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 449.58 176.53 0)
 			(effects
 				(font
@@ -17060,7 +17060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 480.06 147.32 0)
 			(effects
 				(font
@@ -17263,7 +17263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 628.65 147.32 0)
 			(effects
 				(font
@@ -17817,7 +17817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 175.26 176.53 0)
 			(effects
 				(font
@@ -17886,7 +17886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 247.65 152.4 0)
 			(effects
 				(font
@@ -17954,7 +17954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 628.65 102.87 0)
 			(effects
 				(font
@@ -18090,7 +18090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 560.07 102.87 0)
 			(effects
 				(font
@@ -18226,7 +18226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 491.49 102.87 0)
 			(effects
 				(font
@@ -18362,7 +18362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 300.99 260.35 0)
 			(effects
 				(font
@@ -18698,7 +18698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/ProductDetail/Same-Sky/DS01-254-S-08BE?qs=wnTfsH77Xs5gMwW0VQU0FQ%3D%3D"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/Apem/NDIR08ST?qs=rT%2FfPkjBV%252B8gFoAZqmzasg%3D%3D"
 			(at 251.46 256.54 0)
 			(effects
 				(font
@@ -18944,7 +18944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 300.99 252.73 0)
 			(effects
 				(font
@@ -19081,7 +19081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 556.26 152.4 0)
 			(effects
 				(font
@@ -19151,7 +19151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 140.97 176.53 0)
 			(effects
 				(font
@@ -19365,7 +19365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 342.9 147.32 0)
 			(effects
 				(font
@@ -19434,7 +19434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 270.51 129.54 0)
 			(effects
 				(font
@@ -19648,7 +19648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 144.78 152.4 0)
 			(effects
 				(font
@@ -19717,7 +19717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 510.54 129.54 0)
 			(effects
 				(font
@@ -19919,7 +19919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 182.88 102.87 0)
 			(effects
 				(font
@@ -20831,7 +20831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 552.45 176.53 0)
 			(effects
 				(font
@@ -20899,7 +20899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 525.78 102.87 0)
 			(effects
 				(font
@@ -21034,7 +21034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 453.39 152.4 0)
 			(effects
 				(font
@@ -21175,7 +21175,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 201.93 129.54 0)
 			(effects
 				(font
@@ -21512,7 +21512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 651.51 147.32 0)
 			(effects
 				(font
@@ -21581,7 +21581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 384.81 152.4 0)
 			(effects
 				(font
@@ -21996,7 +21996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 662.94 147.32 0)
 			(effects
 				(font
@@ -22065,7 +22065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 613.41 129.54 0)
 			(effects
 				(font
@@ -22200,7 +22200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 148.59 102.87 0)
 			(effects
 				(font
@@ -22270,7 +22270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 655.32 176.53 0)
 			(effects
 				(font
@@ -22550,7 +22550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 586.74 176.53 0)
 			(effects
 				(font
@@ -22687,7 +22687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 476.25 129.54 0)
 			(effects
 				(font
@@ -22958,7 +22958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 274.32 147.32 0)
 			(effects
 				(font
@@ -23028,7 +23028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 346.71 176.53 0)
 			(effects
 				(font
@@ -23098,7 +23098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 312.42 176.53 0)
 			(effects
 				(font
@@ -23168,7 +23168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 621.03 176.53 0)
 			(effects
 				(font
@@ -23313,7 +23313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 205.74 147.32 0)
 			(effects
 				(font
@@ -23381,7 +23381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 354.33 102.87 0)
 			(effects
 				(font
@@ -23521,7 +23521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 457.2 102.87 0)
 			(effects
 				(font
@@ -23866,7 +23866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 659.13 152.4 0)
 			(effects
 				(font
@@ -24011,7 +24011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 236.22 129.54 0)
 			(effects
 				(font
@@ -24080,7 +24080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 647.7 129.54 0)
 			(effects
 				(font
@@ -24214,7 +24214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 662.94 102.87 0)
 			(effects
 				(font
@@ -24351,7 +24351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 617.22 147.32 0)
 			(effects
 				(font
@@ -24420,7 +24420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 457.2 147.32 0)
 			(effects
 				(font
@@ -24556,7 +24556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 560.07 147.32 0)
 			(effects
 				(font
@@ -25175,7 +25175,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 285.75 147.32 0)
 			(effects
 				(font
@@ -25447,7 +25447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 179.07 152.4 0)
 			(effects
 				(font
@@ -25787,7 +25787,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 415.29 176.53 0)
 			(effects
 				(font
@@ -25856,7 +25856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 354.33 147.32 0)
 			(effects
 				(font
@@ -26064,7 +26064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 217.17 102.87 0)
 			(effects
 				(font
@@ -26133,7 +26133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 308.61 147.32 0)
 			(effects
 				(font
@@ -26270,7 +26270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 388.62 147.32 0)
 			(effects
 				(font
@@ -26682,7 +26682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 217.17 147.32 0)
 			(effects
 				(font
@@ -26819,7 +26819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 582.93 147.32 0)
 			(effects
 				(font
@@ -26888,7 +26888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 133.35 129.54 0)
 			(effects
 				(font
@@ -26957,7 +26957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 445.77 147.32 0)
 			(effects
 				(font
@@ -27724,7 +27724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 579.12 129.54 0)
 			(effects
 				(font
@@ -27792,7 +27792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 251.46 102.87 0)
 			(effects
 				(font
@@ -27932,7 +27932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 388.62 102.87 0)
 			(effects
 				(font
@@ -28631,7 +28631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 544.83 129.54 0)
 			(effects
 				(font
@@ -28849,7 +28849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 521.97 152.4 0)
 			(effects
 				(font
@@ -29884,7 +29884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 243.84 176.53 0)
 			(effects
 				(font
@@ -29953,7 +29953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 148.59 147.32 0)
 			(effects
 				(font
@@ -30372,7 +30372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 590.55 152.4 0)
 			(effects
 				(font
@@ -30441,7 +30441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 487.68 152.4 0)
 			(effects
 				(font
@@ -30645,7 +30645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 483.87 176.53 0)
 			(effects
 				(font
@@ -30994,7 +30994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 419.1 152.4 0)
 			(effects
 				(font
@@ -31467,7 +31467,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 373.38 129.54 0)
 			(effects
 				(font
@@ -31737,7 +31737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 407.67 129.54 0)
 			(effects
 				(font
@@ -31945,7 +31945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 167.64 129.54 0)
 			(effects
 				(font
@@ -32081,7 +32081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 594.36 102.87 0)
 			(effects
 				(font
@@ -32292,7 +32292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 251.46 147.32 0)
 			(effects
 				(font
@@ -32429,7 +32429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 339.09 129.54 0)
 			(effects
 				(font
@@ -32715,7 +32715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 278.13 176.53 0)
 			(effects
 				(font
@@ -33120,7 +33120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 518.16 176.53 0)
 			(effects
 				(font
@@ -33188,7 +33188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/ProductDetail/Same-Sky/DS01-254-S-08BE?qs=wnTfsH77Xs5gMwW0VQU0FQ%3D%3D"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/Apem/NDIR08ST?qs=rT%2FfPkjBV%252B8gFoAZqmzasg%3D%3D"
 			(at 251.46 226.06 0)
 			(effects
 				(font
@@ -33708,7 +33708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 281.94 152.4 0)
 			(effects
 				(font
@@ -33920,7 +33920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 491.49 147.32 0)
 			(effects
 				(font
@@ -34057,7 +34057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 350.52 152.4 0)
 			(effects
 				(font
@@ -34663,7 +34663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 240.03 147.32 0)
 			(effects
 				(font
@@ -34865,7 +34865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "molex 22-28-8181"
 			(at 212.09 238.76 0)
 			(effects
 				(font
@@ -35118,7 +35118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 316.23 152.4 0)
 			(effects
 				(font
@@ -35187,7 +35187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 525.78 147.32 0)
 			(effects
 				(font
@@ -35457,7 +35457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 137.16 147.32 0)
 			(effects
 				(font
@@ -35526,7 +35526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 548.64 147.32 0)
 			(effects
 				(font
@@ -35875,7 +35875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 411.48 147.32 0)
 			(effects
 				(font
@@ -35944,7 +35944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 182.88 147.32 0)
 			(effects
 				(font
@@ -36013,7 +36013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 171.45 147.32 0)
 			(effects
 				(font
@@ -36727,7 +36727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 320.04 147.32 0)
 			(effects
 				(font
@@ -37070,7 +37070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 304.8 129.54 0)
 			(effects
 				(font
@@ -37206,7 +37206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "KR EELP41.22-Q1S1-36-A8J8-020-R18"
 			(at 422.91 147.32 0)
 			(effects
 				(font
@@ -37275,7 +37275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 213.36 152.4 0)
 			(effects
 				(font
@@ -37553,7 +37553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD5100F?qs=mxuPqPjQq7HCtYT3sArsJQ%3D%3D"
 			(at 209.55 176.53 0)
 			(effects
 				(font
@@ -38101,7 +38101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 377.19 147.32 0)
 			(effects
 				(font
@@ -38304,7 +38304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 514.35 147.32 0)
 			(effects
 				(font
@@ -38372,7 +38372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "coilcraft RFS 1317 and 1412 series or vishay RS005 power resistors"
 			(at 285.75 102.87 0)
 			(effects
 				(font
@@ -38441,7 +38441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KOA-Speer/SG73S1JTTD751J?qs=mxuPqPjQq7EQf4Bqw7isZg%3D%3D"
 			(at 441.96 129.54 0)
 			(effects
 				(font
