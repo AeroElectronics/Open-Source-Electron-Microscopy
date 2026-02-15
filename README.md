@@ -14,8 +14,6 @@ I've worked on a few areas, see the links below:
 
 [Resistor/Inductor Substitution board](./SubstitutionBoard/README.md)
 
-[Vacuum Control](./VacuumControl/README.md)
-
 [Raster generator](./RasterGenerator/README.md)
 
 Remember, this project is still under development. Use at your own risk. This work is licenced under CERN OHL V2 S. Please see license file.
